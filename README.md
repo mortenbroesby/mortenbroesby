@@ -1,8 +1,12 @@
 # 👋 Hey there! - I'm Morten 👋
 
+## About me
+
+"Danish guy with an international mindset."
+
 I was born in Denmark - and I currently live in the Netherlands.
 
-Here are some things I like:
+### Lightning round
 
 - Programming 💻
 - Skateboarding and longboarding 🛹
