@@ -20,3 +20,4 @@ I'm available on:
 
 - [My Website](https://morten.broesby.dk/)
 - [Instagram](https://www.instagram.com/mortenbroesby/)
+- [LinkedIn](https://www.linkedin.com/in/morten-broesby-olsen/)
