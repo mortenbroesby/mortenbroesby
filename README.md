@@ -10,4 +10,6 @@ Here are some things I like:
 - Playing computer games 🎮
 - Reading 📖
 
+---
+
 Let's get in touch :)
