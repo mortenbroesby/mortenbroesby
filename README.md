@@ -1,4 +1,4 @@
-# 👋 Hey there! - I'm Morten 👋
+Hey there! - I'm Morten 👋
 
 "Danish guy with an international mindset."
 
