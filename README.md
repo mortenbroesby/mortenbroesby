@@ -2,7 +2,7 @@
 
 "Danish guy with an international mindset."
 
-I was born in Denmark - and I currently live in the Netherlands.
+I was born in Denmark - I currently live in the Netherlands.
 
 
 ### What do I like?
