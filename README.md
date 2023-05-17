@@ -2,7 +2,7 @@ Hey there! - I'm Morten 👋
 
 "Danish guy with an international mindset."
 
-I was born in Denmark - I currently live in the Netherlands.
+I was born in Denmark - I currently live in Denmark.
 
 
 ### What do I like?
